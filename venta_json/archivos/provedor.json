@@ -1,0 +1,10 @@
+[
+    {
+        "id": "1",
+        "nombre": "Daniel",
+        "ruc": "09987",
+        "direccion": "17 noviembre",
+        "telefono": "09993456",
+        "email": "maxi@gmail.com"
+    }
+]
